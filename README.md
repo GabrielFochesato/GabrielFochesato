@@ -1,8 +1,8 @@
 - 👋 Opa, sou Gabrieli
 - 👀 I’m interested in programção
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning programação
+- 💞️ I’m looking to collaborate on sites 
+- 📫 How to reach me gabrieli.fochesato@escola.pr.gov.br
 
 <!---
 GabrielFochesato/GabrielFochesato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
