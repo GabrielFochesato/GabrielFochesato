@@ -1,7 +1,7 @@
 - 👋 Opa, sou Gabrieli
-- 👀 I’m interested in programção
-- 🌱 I’m currently learning programação
-- 💞️ I’m looking to collaborate on sites 
+- 👀 estou interessado em programção
+- 🌱 atualmente estou aprendendo programação
+- 💞️ Estou procurando colaborar em sites
 - 📫 Meu e-mail de contato é gabrieli.fochesato@escola.pr.gov.br
 
 <!---
